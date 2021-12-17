@@ -1,0 +1,10 @@
+Domain: nucleustechbd.com
+| Ip: 67.222.155.191 (n)
+| HasCgi: y
+| UserName: nucleustech360
+| PassWord: roFRo3gtULZM
+
+
+http://35.202.253.169/pgadmin4/
+Username:- mymoondevelopment@gmail.com
+Password:- mymoondevelopment@gmail.com

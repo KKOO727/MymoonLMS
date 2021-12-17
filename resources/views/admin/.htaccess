@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "control_panel"
+AuthUserFile "/home/main/.htpasswds/laravel/resources/views/admin/passwd"
+require valid-user

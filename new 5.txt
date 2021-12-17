@@ -1,0 +1,40 @@
+1. Country code in profile
+2. login link in email
+3. i agree to terms sentence
+4. contact the teacher from admin
+5. security seting to add disable option
+6. only arabic and dialect
+7. for tajweed he should request for being promoted
+8. under the category field the option "Enable all categories"
+9. usd in the price field in all places
+10. monthly plan setup , it can be recurring
+11. admin option to switch classes
+12. book now fixed
+13. video preview not the link
+14. notification delete option
+15. vimeo integration
+
+
+1. join button for teacher early 10 mins
+2. show students msg  when choosing calendar
+//3. syrian dialect on admin
+4. after going live automatic paypal
+5. verify the transaction paypal
+//6. favourite list for students
+7. email provider
+8. stripe acoount
+
+//search ajax
+//favourite list
+
+
+//move meta_rate to one to one rate
+
+cron job for recurring payment
+cron for clearing user_meta
+//cron for clearing schedule
+//cron for course expiry
+
+/etc/my.cnf /etc/mysql/my.cnf ~/.my.cnf
+ /etc/php/7.4/cli/php.ini
+
